@@ -1,0 +1,3 @@
+# Assignment 1 ReadMe
+
+For this assignment I worked with the State Drug Utilization data, and started by importing the pandas package and the data file as a data frame.  I then displayed the head() and tail() of the data set by selecting the first 8 and last 5 rows of the data set.  I displayed the column names through df.columns, and used type(df) to show the data type, a pandas DataFrame.  I then used shape to show the dataset has 21 columns and 156220 rows.  Finally, I used the groupby function to show the mean Number of Prescriptions in the data set grouped by state.  I uploaded the notebook to GitHub into a Data612 Assignments folder, and a Module 1 subfolder.
